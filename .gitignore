@@ -1,0 +1,9 @@
+**/build/
+*.px4
+*.zip
+*.tar.*
+toolchain/
+venv/
+.venv/
+logs/
+.vscode/
